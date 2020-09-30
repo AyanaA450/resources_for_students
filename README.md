@@ -5,3 +5,4 @@ These are resources that I've collected over time to help people learn concepts 
 Go checkout these useful resources on web development.
 
 ## [`git`](git.md)
+Go checkout these useful resources on git.
